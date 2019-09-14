@@ -1,1 +1,14 @@
-hi
+@import "shorelinesfont.otf";
+
+h1
+{
+  color: forestgreen;
+  font-size: 60px;
+  text-align: center;
+
+
+}
+body
+{
+  background-color: aliceblue;
+}
